@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\carfactury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\carfactury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\sedancar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\sedancar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|c:\\users\\codee\\source\\repos\\factorycars\\factorycars\\suvcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CEB0D-659C-442A-8B97-0BFC548715DD}|factoryCars\\factoryCars.csproj|solutionrelative:factorycars\\suvcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarFactury.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\CarFactury.cs",
+              "RelativeDocumentMoniker": "factoryCars\\CarFactury.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\CarFactury.cs",
+              "RelativeToolTip": "factoryCars\\CarFactury.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:40:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SUVCar.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SUVCar.cs",
+              "RelativeDocumentMoniker": "factoryCars\\SUVCar.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SUVCar.cs",
+              "RelativeToolTip": "factoryCars\\SUVCar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:17:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SportsCar.cs",
+              "RelativeDocumentMoniker": "factoryCars\\SportsCar.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SportsCar.cs",
+              "RelativeToolTip": "factoryCars\\SportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:17:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SedanCar.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SedanCar.cs",
+              "RelativeDocumentMoniker": "factoryCars\\SedanCar.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\SedanCar.cs",
+              "RelativeToolTip": "factoryCars\\SedanCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:16:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\ICar.cs",
+              "RelativeDocumentMoniker": "factoryCars\\ICar.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\ICar.cs",
+              "RelativeToolTip": "factoryCars\\ICar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:02:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\Program.cs",
+              "RelativeDocumentMoniker": "factoryCars\\Program.cs",
+              "ToolTip": "C:\\Users\\CodeE\\source\\repos\\factoryCars\\factoryCars\\Program.cs",
+              "RelativeToolTip": "factoryCars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:58:22.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

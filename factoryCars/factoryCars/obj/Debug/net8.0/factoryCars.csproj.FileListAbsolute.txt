@@ -1,0 +1,14 @@
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\bin\Debug\net8.0\factoryCars.exe
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\bin\Debug\net8.0\factoryCars.deps.json
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\bin\Debug\net8.0\factoryCars.runtimeconfig.json
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\bin\Debug\net8.0\factoryCars.dll
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\bin\Debug\net8.0\factoryCars.pdb
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.AssemblyInfoInputs.cache
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.AssemblyInfo.cs
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.csproj.CoreCompileInputs.cache
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.dll
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\refint\factoryCars.dll
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.pdb
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\factoryCars.genruntimeconfig.cache
+C:\Users\CodeE\source\repos\factoryCars\factoryCars\obj\Debug\net8.0\ref\factoryCars.dll
